@@ -1,0 +1,13 @@
+- Google Fonts
+
+- Type Scale
+
+- tailwind css
+
+- open color
+
+- coolors => to check the contrast
+
+- unsplash => for photos
+
+- heroicons => for icons
