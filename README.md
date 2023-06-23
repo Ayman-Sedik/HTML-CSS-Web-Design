@@ -1,4 +1,4 @@
-# HTML-CSS-Web-Design
+# HTML-CSS Web Design
 <p>[Demo video]</p> "https://www.linkedin.com/feed/update/urn:li:activity:7058812384085258240/?originTrackingId=aySeezTkSbmn6hXtXSw3Ow%3D%3D"
 
 ## Screenshots:
